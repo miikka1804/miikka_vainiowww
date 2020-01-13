@@ -1,1 +1,9 @@
-hello world
+<!doctype=html>
+<html lang="en">
+<head>
+<title> My page</head>
+<body>
+<p>Tämä on tekstiä</p>
+
+</body>
+</html>
