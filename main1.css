@@ -1,0 +1,40 @@
+.flexContainer{
+    display:flex;
+    background-color: rgba(255, 0, 0, 0.589);
+    align-content: space-between;
+    flex-wrap:wrap;
+}
+
+.flexContainer > div, .flexcolumn > div {
+    background-color: yellow;
+    margin:13.5px;
+    text-align:center;
+    line-height:50px;
+    font-size:30px;
+    width: fit-content;
+}
+.flexContainer > h1 {
+    background-color: rgb(0, 81, 255);
+    margin:10px;
+    text-align:center;
+    line-height:50px;
+    font-size:30px;
+    width: fit-content;
+}
+.flexcolumn{
+    display: flex;
+    background-color: red;
+    flex-direction: column;
+}
+
+.box{
+    float:left;
+    width:200px;
+    margin:20px;
+    background-color: green;
+    min-height: 270px;
+}
+header, footer{
+    height:35px;
+    background-color: yellow;
+}
