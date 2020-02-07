@@ -1,0 +1,30 @@
+h1{
+    color: rgb(0, 22, 218);
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(100, 187, 237);
+}
+a{
+    color: blue;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    color: rgb(255, 251, 0);
+  }
+  footer {
+      text-align: right;
+      margin-right: 25px;
+      margin-top: 18%;
+      color:orange;
+  }
+  nav{
+      background-color: rgb(168, 185, 200);
+      margin-bottom: 2%;
+      margin-top: 1%;
+      height: 100px;
+  }
+h3{
+    color:rgb(175, 175, 7);
+}
